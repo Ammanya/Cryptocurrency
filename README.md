@@ -47,3 +47,10 @@ python crypto_report.py
 ✔️ Analyzes top 5 cryptocurrencies based on market cap
 ✔️ Generates a report (Crypto_Report.docx)
 ✔️ Syncs data with Google Sheets
+
+### 📊 Live Google Sheet
+[Click here to view the live-updating Google Sheet] 
+
+
+""" https://docs.google.com/spreadsheets/d/11q2d_AKjHZ0WQa8B_gObPPvGC707vsmqHaxdinOV-Xk/edit?usp=sharing """
+

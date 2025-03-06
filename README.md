@@ -42,11 +42,22 @@ python crypto_analysis.py
 python crypto_report.py
 
 📊 Features
+
+
 ✔️ Fetches live cryptocurrency data from CoinGecko
+
+
 ✔️ Updates data in an Excel file (crypto_data.xlsx) every 5 minutes
+
+
 ✔️ Analyzes top 5 cryptocurrencies based on market cap
+
+
 ✔️ Generates a report (Crypto_Report.docx)
+
+
 ✔️ Syncs data with Google Sheets
+
 
 ### 📊 Live Google Sheet
 [Click here to view the live-updating Google Sheet] 
